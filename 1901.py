@@ -5,7 +5,7 @@ import datetime, time
 
 
 
-G = 6.67 * math.pow(10,-11)
+G = 6.674 * math.pow(10,-11)
 sunM = 1.989 * math.pow(10,30)
 date1 = input("Enter that latest date as %d/%m/%Y")
 date2 = input("Enter that first date as %d/%m/%Y")
